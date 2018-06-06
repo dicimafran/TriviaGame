@@ -1,0 +1,9 @@
+body { 
+    background-image: url("crocus.jpg");
+    background-size:cover;
+
+}
+
+.jumbotron {
+    margin-top: 10%;
+}
