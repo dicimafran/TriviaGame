@@ -7,3 +7,10 @@ body {
 .jumbotron {
     margin-top: 10%;
 }
+
+.card {
+    justify-content:center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
